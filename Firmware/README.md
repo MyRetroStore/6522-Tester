@@ -48,6 +48,7 @@ chmod +x updater.sh
 ### Requirements
 
 * Windows 10/11
+* Arduino IDE installed
 * PowerShell
 
 Run:
