@@ -54,7 +54,7 @@ chmod +x updater.sh
 Run:
 
 ```powershell
-.\updater.ps1
+powershell -ExecutionPolicy Bypass -File .\updater.ps1
 ```
 
 ## Firmware Releases
